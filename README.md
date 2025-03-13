@@ -38,4 +38,4 @@ ALUBYTE/
 
 Prueba la aplicación desde aquí:
 
-🔗 [ALUBYTE - Demo Online](https://gabrielmy35.github.io/CASO2/)
+🔗 [ALUBYTE - Demo Online](https://dahniel10.github.io/practice2/)
