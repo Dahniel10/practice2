@@ -237,7 +237,7 @@ html {
   
   body {
     min-height: 100%;
-    color: #333;
+    color: #333333ea;
     background-color: #fff;
     margin: 0;
     font-family: Arial, sans-serif;
@@ -295,7 +295,7 @@ html {
   }
   
   html[data-w-dynpage] [data-w-cloak] {
-    color: rgba(0, 0, 0, 0) !important;
+    color: rgba(0, 0, 0, 0.021) !important;
   }
   
   .w-webflow-badge, .w-webflow-badge * {
