@@ -1,4 +1,4 @@
-# 🌐 ALUBYTE - Plataforma de Gestión de Chats
+# 🌐 ALUBYTE - Sistema de Gestión de Chats
 
 ALUBYTE es una solución **SaaS** diseñada para optimizar la comunicación y la productividad en equipos, permitiendo gestionar **chats, tareas y archivos** en un solo lugar.
 
